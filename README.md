@@ -3,7 +3,7 @@
 # Steps involved -
 
 ### Preprocessing -
-<p> 7 coulmns in dataset for 'Floatation Column Air Flow' and 'Floatation Column Level'. Mean and median of 'Floatation Column Air Flow' and 'Floatation Column Level' found, thereby dereasing the number of features to be used while training</p>
+<p> 7 coulmns each in dataset for 'Floatation Column Air Flow' and 'Floatation Column Level' respectively. Mean and median of 'Floatation Column Air Flow' and 'Floatation Column Level' found, thereby dereasing the number of features to be used while training</p>
 
 ### Analysis - 
 
